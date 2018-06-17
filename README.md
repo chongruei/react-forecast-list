@@ -1,6 +1,6 @@
 # React Forecast List
 
--   Demo: [react-forecast-list](https://github.com/chongruei/react-forecast-list/blob/gh-pages/image/walkThrough.gif?raw=true)
+-   Demo: [react-forecast-list](https://chongruei.github.io/react-forecast-list/)
 
 # User Story:
  
@@ -10,3 +10,4 @@
 
 # Walk through
 
+![GITHUB](https://raw.githubusercontent.com/chongruei/react-forecast-list/gh-pages/image/walkThrough.gif "git圖示")
